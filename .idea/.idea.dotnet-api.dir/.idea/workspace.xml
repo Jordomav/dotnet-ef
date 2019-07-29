@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e985a730-bfa2-4696-9f3a-cb03aef014b3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Model.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1564370220178" expanded="false" signature="6:70" ph="..." />
+                <marker date="1564370220178" expanded="true" signature="99:772" ph="{...}" />
+                <marker date="1564370220178" expanded="true" signature="146:367" ph="{...}" />
+                <marker date="1564370220178" expanded="true" signature="254:266" ph="{...}" />
+                <marker date="1564370220178" expanded="true" signature="390:529" ph="{...}" />
+                <marker date="1564370220178" expanded="true" signature="552:770" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="45" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="45" />
+              <folding>
+                <marker date="1564370315584" expanded="true" signature="6:425" ph="..." />
+                <marker date="1564370315584" expanded="true" signature="447:2347" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="474:2345" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="533:596" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="819:1452" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="905:1169" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="1640:2339" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="1687:1764" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="1781:2040" ph="{...}" />
+                <marker date="1564370315584" expanded="true" signature="2169:2327" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/BlogsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <marker date="1564370427983" expanded="false" signature="6:232" ph="..." />
+                <marker date="1564370427983" expanded="true" signature="266:4228" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="314:4226" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="428:480" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="552:633" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="724:1064" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="762:825" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="959:1022" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="1132:1179" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="1189:1397" ph="/* POST: Blogs/Create ... */" />
+                <marker date="1564370427983" expanded="true" signature="1531:1789" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="1577:1748" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="1874:2169" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="1912:1975" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2065:2128" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2179:2387" ph="/* POST: Blogs/Edit/5 ... */" />
+                <marker date="1564370427983" expanded="true" signature="2527:3277" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2572:2635" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2672:3236" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2706:2840" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2893:3166" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="2961:3048" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="3073:3148" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="3366:3706" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="3404:3467" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="3601:3664" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="3880:4099" ph="{...}" />
+                <marker date="1564370427983" expanded="true" signature="4140:4220" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/Blogs/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <marker date="1564370428507" expanded="true" signature="44:81" ph="@..." />
+                <marker date="1564370428507" expanded="true" signature="350:771" ph="@..." />
+                <marker date="1564370428507" expanded="true" signature="379:771" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="106" selection-start-line="36" selection-start-column="106" selection-end-line="36" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Models/Model.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/BlogsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Migrations/BloggingContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Blogs/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Blogs/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Models/Model.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5060" />
+    <option name="y" value="580" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dotnet-api" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dotnet-api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dotnet-api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dotnet-api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Blogs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dotnet-api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.dotnet-api: IIS Express">
+    <configuration name="dotnet-api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/dotnet-api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dotnet-api: dotnet_api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/dotnet-api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="dotnet_api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e985a730-bfa2-4696-9f3a-cb03aef014b3" name="Default Changelist" comment="" />
+      <created>1564370056085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564370056085</updated>
+      <workItem from="1564370058082" duration="891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="891000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3840" y="27" width="3840" height="2133" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1564370003180" expanded="true" signature="42:208" ph="{...}" />
+            <marker date="1564370003180" expanded="true" signature="76:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564370003200" expanded="true" signature="0:41" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Migrations/BloggingContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <marker date="1564370326665" expanded="false" signature="28:196" ph="..." />
+            <marker date="1564370326665" expanded="true" signature="229:1718" ph="{...}" />
+            <marker date="1564370326665" expanded="true" signature="335:1716" ph="{...}" />
+            <marker date="1564370326665" expanded="true" signature="411:1710" ph="{...}" />
+            <marker date="1564370326665" expanded="true" signature="635:878" ph="{...}" />
+            <marker date="1564370326665" expanded="true" signature="961:1349" ph="{...}" />
+            <marker date="1564370326665" expanded="true" signature="1432:1665" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Blogs/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564370428091" expanded="true" signature="31:69" ph="@..." />
+            <marker date="1564370428091" expanded="true" signature="755:842" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="45" />
+          <folding>
+            <marker date="1564370315584" expanded="true" signature="6:425" ph="..." />
+            <marker date="1564370315584" expanded="true" signature="447:2347" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="474:2345" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="533:596" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="819:1452" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="905:1169" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="1640:2339" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="1687:1764" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="1781:2040" ph="{...}" />
+            <marker date="1564370315584" expanded="true" signature="2169:2327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Model.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1564370220178" expanded="false" signature="6:70" ph="..." />
+            <marker date="1564370220178" expanded="true" signature="99:772" ph="{...}" />
+            <marker date="1564370220178" expanded="true" signature="146:367" ph="{...}" />
+            <marker date="1564370220178" expanded="true" signature="254:266" ph="{...}" />
+            <marker date="1564370220178" expanded="true" signature="390:529" ph="{...}" />
+            <marker date="1564370220178" expanded="true" signature="552:770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Blogs/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <marker date="1564370428507" expanded="true" signature="44:81" ph="@..." />
+            <marker date="1564370428507" expanded="true" signature="350:771" ph="@..." />
+            <marker date="1564370428507" expanded="true" signature="379:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/BlogsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <marker date="1564370427983" expanded="false" signature="6:232" ph="..." />
+            <marker date="1564370427983" expanded="true" signature="266:4228" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="314:4226" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="428:480" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="552:633" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="724:1064" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="762:825" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="959:1022" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="1132:1179" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="1189:1397" ph="/* POST: Blogs/Create ... */" />
+            <marker date="1564370427983" expanded="true" signature="1531:1789" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="1577:1748" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="1874:2169" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="1912:1975" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2065:2128" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2179:2387" ph="/* POST: Blogs/Edit/5 ... */" />
+            <marker date="1564370427983" expanded="true" signature="2527:3277" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2572:2635" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2672:3236" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2706:2840" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2893:3166" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="2961:3048" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="3073:3148" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="3366:3706" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="3404:3467" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="3601:3664" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="3880:4099" ph="{...}" />
+            <marker date="1564370427983" expanded="true" signature="4140:4220" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="106" selection-start-line="36" selection-start-column="106" selection-end-line="36" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
